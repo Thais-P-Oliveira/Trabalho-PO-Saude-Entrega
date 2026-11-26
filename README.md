@@ -2,7 +2,7 @@
 
 UFMG — Pesquisa Operacional para Saúde.
 
-Repositório: https://github.com/luana-soares/PO-Saude
+Repositório: https://github.com/Thais-P-Oliveira/Trabalho-PO-Saude-Entrega
 
 ## Requisitos e instalação
 
